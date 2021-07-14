@@ -1,4 +1,4 @@
-__version__ = "1.6.2-iotbox"
+__version__ = "1.6.3"
 
 
 class MQTTException(Exception):
